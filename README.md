@@ -175,7 +175,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 Each group will present their project on **Friday, July 1st** starting at **10:30 AM**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
-* **Maximum 20 minutes.**
+* **Maximum 15 minutes.**
 * **Minimum 5 slides.** Slides should include:
   * Wireframes
   * User stories
