@@ -119,9 +119,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### When is it due?
 
-* **Monday, June 27** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Wednesday, November 9 Morning** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **Friday, July 1st** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Wednesday, November 9 Afternoon** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -136,35 +136,28 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## Project Groups
 
-###### Who are my group members and assigned instructor?
+###### Who are my group members?
 
-#### Group 1 - Street Art (Ben)
+#### Group 1 - Online shop for various items.
 
-* Anthony
-* Vanessa
-* Camila
-* Min
+* Alivia
+* Brendan
+* Chris
+* Sherri
 
-#### Group 2 - Restaurant Connections (Brianna)
+#### Group 2 - Fitness app to keep track of what you lifted, workouts completed, times, etc. Can localize with various gyms and clients are associated to gyms.
 
-* Matt L
-* Jen
-* Mike
-* Matt S
+* Natalia
+* Toby
+* Teddy
+* Bill
 
-#### Group 3 - Language and Cultural Exchange (Annabelle)
+#### Group 3 - Band builder application to find band members.
 
-* Emilio
-* Kabah
-* Kate
-* Val
-
-#### Group 4 - Physical Therapy Tracker (Alex)
-
-* Ben
-* Wayne
-* Sam
-* Michael
+* Kenny
+* Lily
+* Lynette
+* Ryan
 
 ---
 
@@ -172,7 +165,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **Friday, July 1st** starting at **10:30 AM**. Please follow these guidelines:
+Each group will present their project on **Wednesday, November 9** starting at **1:30 PM**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * **Maximum 15 minutes.**
