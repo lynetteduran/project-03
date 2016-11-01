@@ -119,7 +119,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### When is it due?
 
-* **Wednesday, November 9 Morning** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Wednesday, November 2 Morning** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
 * **Wednesday, November 9 Afternoon** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
